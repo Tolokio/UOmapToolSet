@@ -1,0 +1,7 @@
+
+[19/01/2023]
+-Created base.py. This fille will read a map#.mul cell by cell and right now is used to developt and test base code.
+    
+-NEw function->FindCoords(cellID)
+               This will find the coords of the given cellid
+-New function ->findCell(x , y) Find the cellId for given coords.
