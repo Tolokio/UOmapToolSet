@@ -1,5 +1,5 @@
 #this is the earliest version of base tool. Right now it just read map and do prints to check it is able to read it properly and get cellid from coords or coords from cellid.
-
+#thx Asylum as hard part of the code is from him.
 
 import struct
 import math
