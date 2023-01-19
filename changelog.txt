@@ -5,3 +5,7 @@
 -NEw function->FindCoords(cellID)
                This will find the coords of the given cellid
 -New function ->findCell(x , y) Find the cellId for given coords.
+
+-Added Singlecell 
+-Renamed Base.py to AllCells.py
+
