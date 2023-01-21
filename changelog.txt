@@ -10,4 +10,10 @@
 -Added Interface.py
       This got all base function done until now and allow to test any change on it.
 
+[21/01/2023]
+-Added uocoast_.py
+      -Able to check and draw 3x3 of any/all map cells.
+
+-Added getpossiblesquares.py
+
 
