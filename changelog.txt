@@ -16,4 +16,9 @@
 
 -Added getpossiblesquares.py
 
+[26/01/2023]
+-ADDED  t-oceans.py Should be able to create transparent tiles. You can customize certain option. IT generates statics water on swc file. It is not tested yet.
+
+
+
 
